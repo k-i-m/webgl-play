@@ -16,7 +16,7 @@ module.exports = {
       port: 8080,
       overlay: true,
       stats: 'normal',
-      https: true,
+      https: false,
       open: true
     }
   }
