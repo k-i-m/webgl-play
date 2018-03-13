@@ -14,7 +14,11 @@
   "dependencies": {
     "axios": "^0.17.1",
     "lodash": "^4.17.4",
-    "moment": "^2.19.2"
+    "moment": "^2.19.2",
+    "style-loader": "^0.20.3",
+    "three": "^0.90.0",
+    "three-collada-loader": "0.0.1",
+    "three-orbit-controls": "^82.1.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

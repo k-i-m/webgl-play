@@ -60,7 +60,7 @@ module.exports = removeEmpty({
         loader: 'svg-inline-loader'
       },
       {
-        test: /\.(sass|scss)$/,
+        test: /\.(sass|scss|css)$/,
         loader: ExtractTextPlugin.extract({
           fallback: 'style-loader',
           use: cssLoaders,
