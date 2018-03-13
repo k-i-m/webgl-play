@@ -2,7 +2,7 @@
 
 # web app
 
-> A clean web applications (framework-less)
+> An app for learning webGL and Three.js
 
 ## Build Setup
 
